@@ -10,6 +10,9 @@ et s’inscrit dans mon parcours en **Licence 3 Informatique des systèmes embar
 Cette application Android permet aux utilisateurs de rechercher et réserver des billets d’avion directement depuis leur smartphone.  
 Elle a été développée en **Kotlin** avec une interface intuitive et responsive, afin de simplifier l’expérience de réservation et de rendre le processus rapide et accessible.
 
+<img width="527" height="541" alt="image" src="https://github.com/user-attachments/assets/be94b309-f548-4674-9c35-e33161140a2a" />
+
+
 ## Fonctionnalités principales
 - Recherche de vols par destination, date et compagnie aérienne  
 - Interface utilisateur ergonomique et moderne  
